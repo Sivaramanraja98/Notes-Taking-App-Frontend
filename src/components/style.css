@@ -1,0 +1,11 @@
+.header {
+    font-family: "Archivo Black", sans-serif;
+    width: 100%;
+    padding: 10px;
+    font-size: 25px;
+    text-wrap: wrap;
+    color: wheat;
+  }
+  .Bold{
+    font-weight: bold;
+  }
